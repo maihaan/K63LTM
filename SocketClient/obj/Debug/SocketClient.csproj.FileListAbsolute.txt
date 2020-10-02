@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LTMK63\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\Admin\source\repos\LTMK63\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\Admin\source\repos\LTMK63\SocketClient\obj\Debug\SocketClient.Form1.resources
+C:\Users\Admin\source\repos\LTMK63\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\Admin\source\repos\LTMK63\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LTMK63\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTMK63\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\Admin\source\repos\LTMK63\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\Admin\source\repos\LTMK63\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\Admin\source\repos\LTMK63\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache

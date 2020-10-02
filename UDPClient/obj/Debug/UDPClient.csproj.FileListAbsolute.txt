@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\LTMK63\UDPClient\bin\Debug\UDPClient.exe
+C:\Users\Admin\source\repos\LTMK63\UDPClient\bin\Debug\UDPClient.pdb
+C:\Users\Admin\source\repos\LTMK63\UDPClient\obj\Debug\UDPClient.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LTMK63\UDPClient\obj\Debug\UDPClient.Form1.resources
+C:\Users\Admin\source\repos\LTMK63\UDPClient\obj\Debug\UDPClient.Properties.Resources.resources
+C:\Users\Admin\source\repos\LTMK63\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LTMK63\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTMK63\UDPClient\obj\Debug\UDPClient.exe
+C:\Users\Admin\source\repos\LTMK63\UDPClient\obj\Debug\UDPClient.pdb
