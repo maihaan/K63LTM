@@ -23,7 +23,7 @@ namespace UDPServer
                 IPEndPoint ep = new IPEndPoint(IPAddress.Any, 6868);
                 byte[] buffer = server.Receive(ref ep);
                 Console.WriteLine(Encoding.UTF8.GetString(buffer) + "\r\n");
-                server.Send(Encoding.UTF8.GetBytes("OK"), 2);
+                server.Send(Encoding.UTF8.GetBytes("OK"), 2, ep);
             }    
         }
     }

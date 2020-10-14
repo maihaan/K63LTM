@@ -1,0 +1,20 @@
+﻿Bài toán quản lý sinh viên gồm:
+- Sinh viên: Mã, Họ tên, Ngày sinh, Điện thoại, Email, Mã lớp
+- Lớp: Mã, Tên
+
+* Nhiệm vụ:
+1. Thêm, sửa, xóa, xem thông tin của Lớp
+2. Thêm, sửa, xóa, xem thông tin của Sinh viên
+3. Chuyển lớp cho một hoặc nhiều sinh viên
+
+* Cơ sở dữ liệu: MS SQL Server
+- Tên cơ sở dữ liệu: K63SinhVienDB
+- Tên đăng nhập CSDL: SinhVienDB
+- Mật khẩu: SinhVienDB@123
+
+1. Tạo lập xong CSDL
+2. Lập trình theo mô hình 3 lớp
+- Data Access: Lớp truy cập CSDL SQL Server (xong)
+- Bussiness: Nghiệp vụ, thực hiện các công việc thêm, sửa, xóa, xem cho 
+từng đối tượng của phần mềm
+- GUI: Giao diện người dùng, gồm các Form

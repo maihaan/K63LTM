@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\LTMK63\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Admin\source\repos\LTMK63\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Admin\source\repos\LTMK63\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTMK63\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Admin\source\repos\LTMK63\TCPServer\obj\Debug\TCPServer.pdb

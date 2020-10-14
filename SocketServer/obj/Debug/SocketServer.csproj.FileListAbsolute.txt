@@ -1,6 +1,5 @@
 C:\Users\Admin\source\repos\LTMK63\SocketServer\bin\Debug\SocketServer.exe
 C:\Users\Admin\source\repos\LTMK63\SocketServer\bin\Debug\SocketServer.pdb
-C:\Users\Admin\source\repos\LTMK63\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
 C:\Users\Admin\source\repos\LTMK63\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\LTMK63\SocketServer\obj\Debug\SocketServer.exe
 C:\Users\Admin\source\repos\LTMK63\SocketServer\obj\Debug\SocketServer.pdb

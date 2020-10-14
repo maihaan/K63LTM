@@ -7,4 +7,3 @@ C:\Users\Admin\source\repos\LTMK63\SocketClient\obj\Debug\SocketClient.csproj.Co
 C:\Users\Admin\source\repos\LTMK63\SocketClient\obj\Debug\SocketClient.exe
 C:\Users\Admin\source\repos\LTMK63\SocketClient\obj\Debug\SocketClient.pdb
 C:\Users\Admin\source\repos\LTMK63\SocketClient\bin\Debug\SocketClient.exe.config
-C:\Users\Admin\source\repos\LTMK63\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache

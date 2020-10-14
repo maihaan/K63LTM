@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\LTMK63\TCPClients\bin\Debug\TCPClients.exe
+C:\Users\Admin\source\repos\LTMK63\TCPClients\bin\Debug\TCPClients.pdb
+C:\Users\Admin\source\repos\LTMK63\TCPClients\obj\Debug\TCPClients.Form1.resources
+C:\Users\Admin\source\repos\LTMK63\TCPClients\obj\Debug\TCPClients.Properties.Resources.resources
+C:\Users\Admin\source\repos\LTMK63\TCPClients\obj\Debug\TCPClients.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LTMK63\TCPClients\obj\Debug\TCPClients.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTMK63\TCPClients\obj\Debug\TCPClients.exe
+C:\Users\Admin\source\repos\LTMK63\TCPClients\obj\Debug\TCPClients.pdb

@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\LTMK63\SMPTClient\bin\Debug\SMPTClient.exe
+C:\Users\Admin\source\repos\LTMK63\SMPTClient\bin\Debug\SMPTClient.pdb
+C:\Users\Admin\source\repos\LTMK63\SMPTClient\obj\Debug\SMPTClient.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LTMK63\SMPTClient\obj\Debug\SMPTClient.Form1.resources
+C:\Users\Admin\source\repos\LTMK63\SMPTClient\obj\Debug\SMPTClient.Properties.Resources.resources
+C:\Users\Admin\source\repos\LTMK63\SMPTClient\obj\Debug\SMPTClient.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LTMK63\SMPTClient\obj\Debug\SMPTClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTMK63\SMPTClient\obj\Debug\SMPTClient.exe
+C:\Users\Admin\source\repos\LTMK63\SMPTClient\obj\Debug\SMPTClient.pdb
